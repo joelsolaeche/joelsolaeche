@@ -55,16 +55,16 @@ I am a Software Engineer and Machine Learning Engineer with experience designing
 
 ## 🌟 Selected Projects
 
-✨ **[Personal Portfolio](https://my-portfolio-joel-eight.vercel.app/)**  
+✨ <a href="https://my-portfolio-joel-eight.vercel.app/" target="_blank">**[Personal Portfolio]**</a>  
 Professional portfolio built with Next.js, Tailwind CSS, and Framer Motion.
 
-✨ **Credit Risk Analysis Predictor**  
+✨ **[Credit Risk Analysis Predictor](https://github.com/joelsolaeche/credit-risk-app)**  
 Supervised learning model for credit risk estimation using TensorFlow, Scikit-learn, FastAPI, and Docker.
 
-✨ **Gym E-commerce Platform**  
+✨ **[Gym E-commerce Platform](https://github.com/joelsolaeche/E-commerce_gym_powerKi)**  
 Full stack web application combining React, FastAPI, and MySQL.
 
-✨ **Multimodal Product Classifier**  
+✨ **Multimodal Product Classifier(Being deployed soon!)**  
 Deep learning system integrating NLP and Computer Vision.
 
 ---
