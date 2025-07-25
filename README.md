@@ -67,13 +67,13 @@ Full stack web application combining React, Bootstrap, Talwind CSS and MySQL.
 ✨ **[Multimodal Product Classifier](https://github.com/joelsolaeche/Multimodal_E-commerce_Product_Classification_System)**  
 Deep learning system integrating NLP and Computer Vision.
 
-✨ **[AI Vision Classifier](https://github.com/joelsolaeche/ai_classifier_web_app)**
+✨ **[AI Vision Classifier](https://github.com/joelsolaeche/ai_classifier_web_app)**                                                                               
 Enterprise-grade full-stack application with ResNet50 AI model for automated image classification across 1000+ categories, featuring 95% time reduction and real-time processing
 
-✨ **[Home Credit Default Risk Prediction](https://github.com/joelsolaeche/home_credit_pipeline)**
+✨ **[Home Credit Default Risk Prediction](https://github.com/joelsolaeche/home_credit_pipeline)**                                                                 
 Complete ML pipeline with interactive Streamlit dashboard for predicting loan default risk with 75%+ accuracy, featuring real-time predictions and business intelligence
 
-✨ **[E-Commerce Data Pipeline ELT](https://github.com/joelsolaeche/E-Commerce-Data-Pipeline-ELT)**
+✨ **[E-Commerce Data Pipeline ELT](https://github.com/joelsolaeche/E-Commerce-Data-Pipeline-ELT)**                                                                
 Built an ELT pipeline to analyze seasonal e-commerce data and extract holiday-driven purchase insights orchestrated with Apache Airflow
 
 ---
