@@ -67,7 +67,7 @@ Full stack web application combining React, Bootstrap, Talwind CSS and MySQL.
 ✨ **[Multimodal Product Classifier](https://github.com/joelsolaeche/Multimodal_E-commerce_Product_Classification_System)**  
 Deep learning system integrating NLP and Computer Vision.
 
-✨ **[AI Vision Classifier](https://github.com/joelsolaeche/ai_classifier_web_app)**                                                                               
+✨ **[AI Vision Classifier](https://github.com/joelsolaeche/ai_classifier)**                                                                               
 Enterprise-grade full-stack application with ResNet50 AI model for automated image classification across 1000+ categories, featuring 95% time reduction and real-time processing
 
 ✨ **[Home Credit Default Risk Prediction](https://github.com/joelsolaeche/home_credit_pipeline)**                                                                 
