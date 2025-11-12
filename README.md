@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-I am a Software Engineer and Machine Learning Engineer with experience designing and deploying end-to-end solutions that blend modern web development and applied AI. My work spans building deep learning models, scalable APIs, and clean frontend experiences.
+I am a Software Engineer and Machine Learning Engineer/AI Engineer with experience designing and deploying end-to-end solutions that blend modern web development and applied AI. My work spans building deep learning models, scalable APIs, and clean frontend experiences.
 
 ---
 
@@ -57,6 +57,9 @@ I am a Software Engineer and Machine Learning Engineer with experience designing
 
 ✨ **[Personal Portfolio](https://my-portfolio-joel-eight.vercel.app/)**
 Professional portfolio built with Next.js, Tailwind CSS, and Framer Motion.
+
+✨ **[LLM Based Recruitment Tool](https://github.com/joelsolaeche/LLM-Based-Recruitment-Tool)**
+An intelligent job-matching application powered by Large Language Models (LLMs) that connects candidates with relevant job opportunities using advanced AI technologies.
 
 ✨ **[Credit Risk Analysis Predictor](https://github.com/joelsolaeche/credit-risk-app)**  
 Supervised learning model for credit risk estimation using TensorFlow, Scikit-learn, FastAPI, and Docker.
